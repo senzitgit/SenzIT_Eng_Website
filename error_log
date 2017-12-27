@@ -1,0 +1,222 @@
+[13-Dec-2014 16:41:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home1/esenzitc/public_html/senzit.net/wp-content/themes/Elision/full_width.php on line 126
+[13-Dec-2014 16:42:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home1/esenzitc/public_html/senzit.net/wp-content/themes/Elision/full_width.php on line 108
+[13-Dec-2014 16:46:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home1/esenzitc/public_html/senzit.net/wp-content/themes/Elision/full_width.php on line 122
+[13-Dec-2014 16:46:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home1/esenzitc/public_html/senzit.net/wp-content/themes/Elision/full_width.php on line 122
+[13-Jul-2015 07:03:51 UTC] PHP Warning:  imagepng() [<a href='function.imagepng'>function.imagepng</a>]: Unable to open '/home/esenzitc/public_html/senzit.net/wp-content/uploads/wpcf7_captcha/1123950450.png' for writing: Disk quota exceeded in /home/esenzitc/public_html/senzit.net/wp-content/plugins/really-simple-captcha/really-simple-captcha.php on line 142
+[14-Jul-2015 12:05:55 UTC] PHP Fatal error:  Call to a member function have_posts() on a non-object in /home/esenzitc/public_html/senzit.net/wp-content/plugins/pentagon/pentagon.php on line 106
+[14-Jul-2015 12:08:41 UTC] PHP Fatal error:  Call to a member function have_posts() on a non-object in /home/esenzitc/public_html/senzit.net/wp-content/plugins/pentagon/pentagon.php on line 106
+[14-Jul-2015 12:11:26 UTC] PHP Fatal error:  Call to a member function have_posts() on a non-object in /home/esenzitc/public_html/senzit.net/wp-content/plugins/pentagon/pentagon.php on line 106
+[14-Jul-2015 12:11:42 UTC] PHP Fatal error:  Call to a member function have_posts() on a non-object in /home/esenzitc/public_html/senzit.net/wp-content/plugins/pentagon/pentagon.php on line 106
+[14-Jul-2015 12:11:51 UTC] PHP Fatal error:  Call to a member function have_posts() on a non-object in /home/esenzitc/public_html/senzit.net/wp-content/plugins/pentagon/pentagon.php on line 106
+[12-Aug-2015 11:16:15 Etc/GMT] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/esenzitc/public_html/senzit.net/test.php on line 6
+[12-Aug-2015 11:16:15 Etc/GMT] PHP Warning:  fopen(http://www.someimagesite.com/img.jpg) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/esenzitc/public_html/senzit.net/test.php on line 6
+[12-Aug-2015 11:16:15 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/esenzitc/public_html/senzit.net/test.php on line 8
+[12-Aug-2015 11:16:15 Etc/GMT] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/esenzitc/public_html/senzit.net/test.php on line 12
+[12-Aug-2015 11:16:56 Etc/GMT] PHP Warning:  copy(http://example.com/image.php) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/esenzitc/public_html/senzit.net/test.php on line 4
+[12-Aug-2015 11:17:01 Etc/GMT] PHP Warning:  copy(http://example.com/image.php) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/esenzitc/public_html/senzit.net/test.php on line 4
+[12-Aug-2015 11:17:59 Etc/GMT] PHP Warning:  copy(local/folder/flower.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/esenzitc/public_html/senzit.net/test.php on line 4
+[12-Aug-2015 11:18:24 Etc/GMT] PHP Warning:  copy(D://flower.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/esenzitc/public_html/senzit.net/test.php on line 4
+[12-Aug-2015 11:18:42 Etc/GMT] PHP Warning:  copy(E://flower.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/esenzitc/public_html/senzit.net/test.php on line 4
+[12-Aug-2015 11:19:36 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[12-Aug-2015 11:20:16 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[12-Aug-2015 11:20:17 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[12-Aug-2015 11:20:18 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[12-Aug-2015 11:20:18 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[12-Aug-2015 11:20:19 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[12-Aug-2015 11:20:19 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[12-Aug-2015 11:49:35 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[12-Aug-2015 11:49:35 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[01-Sep-2015 08:18:56 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[03-Sep-2015 03:42:36 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[17-Sep-2015 13:58:51 UTC] PHP Fatal error:  Out of memory (allocated 32768000) (tried to allocate 122880 bytes) in /home/esenzitc/public_html/senzit.net/wp-content/themes/Elision/wpbakery/js_composer/composer/lib/shortcodes.php on line 534
+[12-Oct-2015 06:27:21 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/esenzitc/public_html/senzit.net/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[13-Oct-2015 10:11:48 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/esenzitc/public_html/senzit.net/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[14-Oct-2015 05:10:37 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/esenzitc/public_html/senzit.net/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[14-Oct-2015 05:31:27 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/esenzitc/public_html/senzit.net/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[14-Oct-2015 06:02:04 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/esenzitc/public_html/senzit.net/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[19-Dec-2015 14:40:04 UTC] PHP Fatal error:  Out of memory (allocated 39059456) (tried to allocate 1966080 bytes) in /home/esenzitc/public_html/senzit.net/wp-content/themes/Elision/extendvc/extend-vc.php on line 3096
+[02-Jan-2016 06:44:34 UTC] WordPress database error Lost connection to MySQL server during query for query SELECT * FROM wp_users WHERE user_login = 'dennis' made by wp_xmlrpc_server->serve_request, IXR_Server->IXR_Server, IXR_Server->serve, IXR_Server->call, IXR_Server->multiCall, IXR_Server->call, wp_xmlrpc_server->mw_getCategories, wp_xmlrpc_server->login, wp_authenticate, apply_filters('authenticate'), call_user_func_array, wp_authenticate_username_password, get_user_by, WP_User::get_data_by
+[09-Jan-2016 10:48:06 UTC] WordPress database error Lost connection to MySQL server during query for query SELECT * FROM wp_posts  WHERE (post_type = 'page' AND post_status = 'publish')    AND post_parent = 7942   ORDER BY wp_posts.post_title ASC LIMIT 0,1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Elision/full_width.php'), get_header, locate_template, load_template, require_once('/themes/Elision/header.php'), body_class, get_body_class, get_pages
+[26-Mar-2016 00:30:04 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenz2kd/public_html/SENZIT/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenz2kd/public_html/SENZIT/test.php on line 10
+[30-Mar-2016 16:50:07 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenz2kd/public_html/SENZIT/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenz2kd/public_html/SENZIT/test.php on line 10
+[31-Mar-2016 01:11:05 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenz2kd/public_html/SENZIT/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenz2kd/public_html/SENZIT/test.php on line 10
+[10-Apr-2016 10:15:53 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenz2kd/public_html/SENZIT/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenz2kd/public_html/SENZIT/test.php on line 10
+[13-Apr-2016 04:44:13 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenz2kd/public_html/SENZIT/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenz2kd/public_html/SENZIT/test.php on line 10
+[13-Apr-2016 22:37:18 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenz2kd/public_html/SENZIT/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenz2kd/public_html/SENZIT/test.php on line 10
+[31-Jan-2017 13:26:54 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_EN/test.php on line 10
+[19-Feb-2017 23:10:44 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 518
+[22-Feb-2017 20:44:31 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_EN/test.php on line 10
+[24-Feb-2017 16:17:24 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_EN/test.php on line 10
+[27-Feb-2017 00:16:39 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_EN/test.php on line 10
+[06-Mar-2017 05:06:11 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/senzixwd/public_html/SENZIT_EN/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[06-Mar-2017 05:11:49 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/senzixwd/public_html/SENZIT_EN/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[06-Mar-2017 05:11:50 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/senzixwd/public_html/SENZIT_EN/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[06-Mar-2017 05:11:50 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/senzixwd/public_html/SENZIT_EN/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[06-Mar-2017 05:11:51 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/senzixwd/public_html/SENZIT_EN/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[06-Mar-2017 05:11:51 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/senzixwd/public_html/SENZIT_EN/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[15-Mar-2017 06:39:28 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_EN/test.php on line 10
+[27-Mar-2017 12:15:04 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_EN/test.php on line 10
+[02-Apr-2017 23:58:06 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_EN/test.php on line 10
+[06-Apr-2017 06:25:49 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 518
+[02-May-2017 07:51:42 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_EN/test.php on line 10
+[08-May-2017 07:58:58 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_EN/test.php on line 10
+[08-May-2017 18:41:19 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_EN/test.php on line 10
+[12-May-2017 02:00:13 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 518
+[15-May-2017 22:14:28 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_EN/test.php on line 10
+[31-May-2017 11:47:53 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_EN/test.php on line 10
+[01-Jun-2017 12:51:33 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 518
+[18-Jun-2017 09:44:23 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_EN/test.php on line 10
+[18-Jun-2017 17:00:50 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 518
+[11-Jul-2017 22:56:29 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 518
+[15-Jul-2017 06:32:18 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 518
+[30-Jul-2017 08:54:47 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 523
+[23-Aug-2017 21:06:09 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzix15/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzix15/public_html/SENZIT_EN/test.php on line 10
+[27-Aug-2017 00:03:57 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 523
+[15-Sep-2017 04:15:24 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 523
+[21-Sep-2017 12:34:01 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 523
+[01-Oct-2017 20:06:20 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 523
+[07-Oct-2017 18:42:25 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzix15/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzix15/public_html/SENZIT_EN/test.php on line 10
+[07-Oct-2017 20:35:51 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzix15/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzix15/public_html/SENZIT_EN/test.php on line 10
+[12-Oct-2017 20:24:15 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 523
+[13-Oct-2017 13:38:18 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 523
+[22-Oct-2017 18:45:52 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 523
+[23-Oct-2017 17:04:07 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzix15/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzix15/public_html/SENZIT_EN/test.php on line 10
+[31-Oct-2017 15:55:29 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 523
+[04-Nov-2017 04:22:16 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 523
+[07-Nov-2017 04:46:17 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 523
+[15-Nov-2017 20:36:38 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzix15/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzix15/public_html/SENZIT_EN/test.php on line 10
+[17-Nov-2017 20:36:07 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 523
+[26-Nov-2017 16:33:32 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzix15/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzix15/public_html/SENZIT_EN/test.php on line 10
+[01-Dec-2017 06:32:54 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzix15/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzix15/public_html/SENZIT_EN/test.php on line 10
+[08-Dec-2017 18:26:58 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 523
+[17-Dec-2017 00:12:15 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzix15/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzix15/public_html/SENZIT_EN/test.php on line 10
+[17-Dec-2017 12:00:33 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 523
+[19-Dec-2017 15:12:29 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzix15/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzix15/public_html/SENZIT_EN/test.php on line 10
+[23-Dec-2017 18:50:34 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzix15/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzix15/public_html/SENZIT_EN/test.php on line 10
+[25-Dec-2017 09:56:08 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzix15/public_html/SENZIT_EN/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzix15/public_html/SENZIT_EN/test.php on line 10
+[26-Dec-2017 08:25:42 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SENZIT_EN/wp-includes/class-wp-xmlrpc-server.php on line 523
